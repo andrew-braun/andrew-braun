@@ -60,11 +60,6 @@
 </p>
 
 <h2>Random Stats</h2>
-<p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-braun&theme=nightowl" alt="andrew-braun" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-braun&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="andrew-braun" />
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-braun&theme=nightowl" alt="andrew-braun" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-braun&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="andrew-braun" /></p>
